@@ -1,3 +1,8 @@
+# Deprecated
+
+> [!WARNING]
+> Use ScalablyTyped instead 🙇
+
 # aws-sdk-scalajs-facade-generator
 
 This is a fork of awesome [balshor/aws-sdk-apis-parser](https://github.com/balshor/aws-sdk-apis-parser).
